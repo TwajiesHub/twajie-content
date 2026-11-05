@@ -27,3 +27,11 @@ Voice: edge-tts (AI). Photos are real, not AI-generated.
 - Ikogosi Warm Springs, Ikogosi Ekiti, Ekiti State: Okimi Raphael, CC BY-SA 4.0, Wikimedia Commons
 - Ikogosi-Ekiti warm spring 02: Hadassah Photostorie group, CC BY-SA 4.0, Wikimedia Commons
 Voice: edge-tts (AI). Photos are real, not AI-generated.
+
+## Lagos / Eko Portuguese name video (faceless/lagos_eko_portuguese_v1.mp4) — Nov 2026
+- Lagos Lagoon - Brothers at Dusk: Obii Okongwu, CC BY-SA 4.0, Wikimedia Commons
+- Awon alaje ni ori afara third mainland: Mrnyben1313, CC BY-SA 4.0, Wikimedia Commons
+- Lagos Island City Scape: Jamie Tubers, CC BY-SA 4.0, Wikimedia Commons
+- Foggy morning on Lagos Lagoon: Dotun55, CC BY-SA 4.0, Wikimedia Commons
+- Lagos Marina: Kwadoskii, CC BY-SA 4.0, Wikimedia Commons
+Voice: edge-tts (AI). Photos are real, not AI-generated.
