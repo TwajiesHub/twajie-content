@@ -19,3 +19,11 @@ Voice: edge-tts (AI). Photos are real, not AI-generated.
 - Inside Osun Osogbo Grove 1: Abdurrazaq A.F.O, CC BY-SA 4.0, Wikimedia Commons
 - Osub Osogbo grove (mainnentrance): Ei'eke, CC BY 4.0, Wikimedia Commons
 Voice: edge-tts (AI). Photos are real, not AI-generated.
+
+## Ikogosi Warm Springs video (faceless/ikogosi_warm_springs_v1.mp4) — Nov 2026
+- Ikogosi Warm water spring 10 / 05 / 01 / 16: Okeile, CC BY-SA 4.0, Wikimedia Commons
+- Ikogosi Cold and Warm Spring: Asoegwu Yvonne, CC BY-SA 4.0, Wikimedia Commons
+- Ikogosi WarmSpring MeetingPoint: Olarjims, CC BY-SA 4.0, Wikimedia Commons
+- Ikogosi Warm Springs, Ikogosi Ekiti, Ekiti State: Okimi Raphael, CC BY-SA 4.0, Wikimedia Commons
+- Ikogosi-Ekiti warm spring 02: Hadassah Photostorie group, CC BY-SA 4.0, Wikimedia Commons
+Voice: edge-tts (AI). Photos are real, not AI-generated.
