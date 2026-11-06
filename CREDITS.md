@@ -35,3 +35,6 @@ Voice: edge-tts (AI). Photos are real, not AI-generated.
 - Foggy morning on Lagos Lagoon: Dotun55, CC BY-SA 4.0, Wikimedia Commons
 - Lagos Marina: Kwadoskii, CC BY-SA 4.0, Wikimedia Commons
 Voice: edge-tts (AI). Photos are real, not AI-generated.
+
+## faceless9–14 (Nov 2026 queue top-up)
+See faceless/*_sources.md for per-video Wikimedia Commons photo credits and fact sources.
