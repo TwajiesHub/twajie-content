@@ -38,3 +38,18 @@ Voice: edge-tts (AI). Photos are real, not AI-generated.
 
 ## faceless9–14 (Nov 2026 queue top-up)
 See faceless/*_sources.md for per-video Wikimedia Commons photo credits and fact sources.
+
+## Kano City Walls video (faceless/kano_city_walls_v1.mp4) — Nov 2026
+- Ancient Walls of Kano Emirate 01 / 04: Anasskoko, CC BY-SA 4.0, Wikimedia Commons
+- A part of the Kano City Wall from Medieval times: Solasly, CC BY-SA 4.0, Wikimedia Commons
+- Sabuwar Kofa - Kano City Gate: Suleiman Umar, Aminu Abdullahi, Abubakar Yusuf (kanostreetsonosm.org.ng), CC BY-SA 4.0, Wikimedia Commons
+- Dawanau Gate in Kano 01: Anasskoko, CC BY-SA 4.0, Wikimedia Commons
+Voice: edge-tts (AI). Photos are real, not AI-generated.
+
+## Gurara Falls video (faceless/gurara_falls_v1.mp4) — Nov 2026
+- Gurara Falls in Full Flow Niger State: Samuel Ayenajeh, CC BY-SA 4.0, Wikimedia Commons
+- Head-on View of Gurara Water falls 01: Danjuma Anthony, CC BY-SA 4.0, Wikimedia Commons
+- Turbulence water at the gurara water falls 01: Next level19, CC BY-SA 4.0, Wikimedia Commons
+- The Gurara Falls, Niger State, Nigeria: Tytypicasso, CC BY-SA 4.0, Wikimedia Commons
+- 3- The Gurara Falls By Ayobami Macaulay: Ayobami Macaulay, CC BY-SA 4.0, Wikimedia Commons
+Voice: edge-tts (AI). Photos are real, not AI-generated.
