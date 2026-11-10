@@ -53,3 +53,24 @@ Voice: edge-tts (AI). Photos are real, not AI-generated.
 - The Gurara Falls, Niger State, Nigeria: Tytypicasso, CC BY-SA 4.0, Wikimedia Commons
 - 3- The Gurara Falls By Ayobami Macaulay: Ayobami Macaulay, CC BY-SA 4.0, Wikimedia Commons
 Voice: edge-tts (AI). Photos are real, not AI-generated.
+
+## Sukur Cultural Landscape video (faceless/sukur_cultural_landscape_v1.mp4) — Nov 2026
+- Sukur from Above; Cultural Landscape; First Gate viewpoint: Aminucrus, CC BY-SA 4.0, Wikimedia Commons
+- Hidi's Palace: Ummigarba, CC BY-SA 4.0, Wikimedia Commons
+- Sukur pathway: Kada Ngbale, CC BY-SA 4.0, Wikimedia Commons
+Voice: edge-tts (AI). Photos are real, not AI-generated.
+
+## Agbokim Waterfalls video (faceless/agbokim_waterfalls_v1.mp4) — Nov 2026
+- Agbokim waterfalls: MuaMee, CC BY-SA 4.0, Wikimedia Commons
+- Agbokim Waterfalls, Agbokim, Cross River state: Ei'eke, CC BY-SA 4.0, Wikimedia Commons
+- Agbokim Waterfalls Ikom Cross River State Nigeria: Efetobo Awhana, CC BY-SA 4.0, Wikimedia Commons
+- Agbokim Waterfalls, Cross River State: Favouridowu, CC BY-SA 4.0, Wikimedia Commons
+- Agbokim Waterfall Ikom - Cross River State: Thompson Ememka, CC BY-SA 4.0, Wikimedia Commons
+Voice: edge-tts (AI). Photos are real, not AI-generated.
+
+## Lekki Conservation Centre canopy walkway video (faceless/lekki_canopy_walkway_v1.mp4) — Nov 2026
+- Lekki Conservation Center, Canopy walk; Canopy walk - Lekki conservation center: Turizimpressions, CC BY-SA 4.0, Wikimedia Commons
+- A bottom view of the swing bridge at Lekki Conservation Centre, Lagos Nigeria: Dukemic, CC BY-SA 4.0, Wikimedia Commons
+- Forest Canopy walkway: Juganutt, CC BY-SA 4.0, Wikimedia Commons
+- Boardwalking: Dayoakinbode, CC BY-SA 4.0, Wikimedia Commons
+Voice: edge-tts (AI). Photos are real, not AI-generated.
