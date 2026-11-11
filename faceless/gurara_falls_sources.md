@@ -7,3 +7,9 @@ Visuals: real photos, Wikimedia Commons, credited on screen:
 - The Gurara Falls, Niger State, Nigeria.jpg — Tytypicasso, CC BY-SA 4.0
 - 3- The Gurara Falls By Ayobami Macaulay.jpg — Ayobami Macaulay, CC BY-SA 4.0
 Voice: edge-tts en-US-AndrewNeural +8%. No music.
+
+## v2 re-cut (Nov 11, 2026): hook "Who discovered Gurara Falls?"
+Second sources for the oral-history claim (Gwari hunter Buba, 1745; Europeans 1925; Gura and Rara):
+- The Guardian Nigeria, "Destination... Gurara waterfalls": https://guardian.ng/saturday-magazine/destination-gurara-waterfalls/
+- BusinessDay, "10 things to know about Gurara Waterfalls": https://businessday.ng/peopleplaces/article/10-things-to-know-about-gurara-waterfalls/
+Labelled as oral history on screen and in voiceover.

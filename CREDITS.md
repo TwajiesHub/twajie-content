@@ -74,3 +74,13 @@ Voice: edge-tts (AI). Photos are real, not AI-generated.
 - Forest Canopy walkway: Juganutt, CC BY-SA 4.0, Wikimedia Commons
 - Boardwalking: Dayoakinbode, CC BY-SA 4.0, Wikimedia Commons
 Voice: edge-tts (AI). Photos are real, not AI-generated.
+
+## faceless/tafawa_balewa_square_racecourse_v1.mp4
+- Tafawa Balewa Square Onikan Lagos - 2024: Isaacayodele32, CC BY-SA 4.0, Wikimedia Commons
+- Tafawa Balewa Square from Above: Juganutt, CC BY-SA 4.0, Wikimedia Commons
+- The Prime Minister leaving Tafawa Balewa Square after receiving Instrument of Independence: unknown author, CC0, Wikimedia Commons (cropped)
+- The Back of the Tafawa Balewa Square with white horses and eagles above the gates: Adeola Ready O, CC BY-SA 4.0, Wikimedia Commons
+- 3 Eagles on the tafawa Balewa square: Agbebiyi Adekunle (Tadek Photography), CC BY-SA 4.0, Wikimedia Commons
+Voice: edge-tts (AI). Photos are real, not AI-generated.
+
+v2 re-cuts (kano_city_walls_v2, gurara_falls_v2, sukur_cultural_landscape_v2, agbokim_waterfalls_v2, lekki_canopy_walkway_v2) use the same photos and credits as their v1 files.

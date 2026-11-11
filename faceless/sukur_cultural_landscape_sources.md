@@ -8,3 +8,5 @@ Visuals: real photos, Wikimedia Commons, credited on screen:
 - Sukur pathway.jpg — Kada Ngbale, CC BY-SA 4.0
 - First Gate viewpoint.jpg — Aminucrus, CC BY-SA 4.0
 Voice: edge-tts en-US-AndrewNeural +8%. No music.
+
+## v2 re-cut (Nov 11, 2026): hook "What is Africa's first cultural landscape?" Same facts; UNESCO + Wikipedia above.

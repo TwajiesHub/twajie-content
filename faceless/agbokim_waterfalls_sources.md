@@ -11,3 +11,5 @@ Visuals: real photos, Wikimedia Commons, credited on screen:
 - Agbokim Waterfalls, Cross River State.jpg — Favouridowu, CC BY-SA 4.0
 - Agbokim Waterfall Ikom - Cross River State.jpg — Thompson Ememka, CC BY-SA 4.0
 Voice: edge-tts en-US-AndrewNeural +8%. No music.
+
+## v2 re-cut (Nov 11, 2026): hook "Which Nigerian waterfall has seven streams?" Same facts; seven streams confirmed by 4 sources above.

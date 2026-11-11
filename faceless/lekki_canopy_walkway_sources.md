@@ -10,3 +10,5 @@ Visuals: real photos, Wikimedia Commons, credited on screen:
 - Forest Canopy walkway.jpg — Juganutt, CC BY-SA 4.0
 - Boardwalking.jpg — Dayoakinbode, CC BY-SA 4.0
 Voice: edge-tts en-US-AndrewNeural +8%. No music.
+
+## v2 re-cut (Nov 11, 2026): hook "Is this Africa's longest canopy walkway?" Same facts; 'longest in Africa' at launch from Guardian Nigeria + Attractions Management above.
