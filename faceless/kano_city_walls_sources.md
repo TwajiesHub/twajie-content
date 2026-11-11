@@ -6,3 +6,8 @@ Visuals: real photos, Wikimedia Commons, credited on screen:
 - Sabuwar Kofa - Kano City Gate.jpg — Suleiman Umar, Aminu Abdullahi, Abubakar Yusuf (kanostreetsonosm.org.ng), CC BY-SA 4.0
 - Dawanau Gate in Kano 01.jpg — Anasskoko, CC BY-SA 4.0
 Voice: edge-tts en-US-AndrewNeural +8%. No music.
+
+## v2 re-cut (Nov 11, 2026): hook "How old is Kano's city wall?"
+Second sources for the key claims (900+ years from Gijimasu r. 1095–1134; completed 14th c.; up to ~50 ft/15 m; 15 gates; Lugard 1903 quote):
+- P.M. News, "Kano govt to rehabilitate ancient walls..." (19 Jun 2023): https://pmnewsnigeria.com/2023/06/19/kano-govt-to-rehabilitate-ancient-walls-with-demolition-debris/ (1095–1134, mid-14th c., 30–50 ft, 40 ft thick, 15 gates, Lugard 1903)
+- Cultural Property News, "Nigeria: Kano's Walls Will Disappear": https://culturalpropertynews.org/nigeria-kanos-walls-will-disappear/ (Gijimasu 1095–1134, 14th c. completion, ~50 ft, Lugard 1903)
