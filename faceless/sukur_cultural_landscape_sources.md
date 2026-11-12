@@ -10,3 +10,7 @@ Visuals: real photos, Wikimedia Commons, credited on screen:
 Voice: edge-tts en-US-AndrewNeural +8%. No music.
 
 ## v2 re-cut (Nov 11, 2026): hook "What is Africa's first cultural landscape?" Same facts; UNESCO + Wikipedia above.
+
+## v3 voice (Nov 12, 2026)
+Swapped narrator to a calmer voice after the previous Andrew +8% track was described as jarring.
+Voice: edge-tts en-US-BrianNeural, rate -10%, pitch -5Hz. Normalized to about -16 LUFS with a gentle limiter, light de-ess and low-pass. No music, no SFX. Script, hook and on-screen text unchanged; captions retimed to the new audio.

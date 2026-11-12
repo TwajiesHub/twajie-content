@@ -13,3 +13,7 @@ Second sources for the oral-history claim (Gwari hunter Buba, 1745; Europeans 19
 - The Guardian Nigeria, "Destination... Gurara waterfalls": https://guardian.ng/saturday-magazine/destination-gurara-waterfalls/
 - BusinessDay, "10 things to know about Gurara Waterfalls": https://businessday.ng/peopleplaces/article/10-things-to-know-about-gurara-waterfalls/
 Labelled as oral history on screen and in voiceover.
+
+## v3 voice (Nov 12, 2026)
+Swapped narrator to a calmer voice after the previous Andrew +8% track was described as jarring.
+Voice: edge-tts en-US-BrianNeural, rate -10%, pitch -5Hz. Normalized to about -16 LUFS with a gentle limiter, light de-ess and low-pass. No music, no SFX. Script, hook and on-screen text unchanged; captions retimed to the new audio.

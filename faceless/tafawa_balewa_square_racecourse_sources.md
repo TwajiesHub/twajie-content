@@ -11,3 +11,7 @@ Visuals: real photos, Wikimedia Commons, credited on screen:
 - The Back of the Tafawa Balewa Square with white horses and eagles above the gates.jpg — Adeola Ready O, CC BY-SA 4.0
 - 3 Eagles on the tafawa Balewa square.jpg — Agbebiyi Adekunle (Tadek Photography), CC BY-SA 4.0
 Voice: edge-tts en-US-AndrewNeural +8%. No music.
+
+## v3 voice (Nov 12, 2026)
+Swapped narrator to a calmer voice after the previous Andrew +8% track was described as jarring.
+Voice: edge-tts en-US-BrianNeural, rate -10%, pitch -5Hz. Normalized to about -16 LUFS with a gentle limiter, light de-ess and low-pass. No music, no SFX. Script, hook and on-screen text unchanged; captions retimed to the new audio.
